@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("C-ThingyMagicy")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85cae8ed0df8357202fc102cbe99eb8e78c2dd95")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ff2b0274c38a051a7e8a2f2b7c12723a3ef31ad")]
 [assembly: System.Reflection.AssemblyProductAttribute("C-ThingyMagicy")]
 [assembly: System.Reflection.AssemblyTitleAttribute("C-ThingyMagicy")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
