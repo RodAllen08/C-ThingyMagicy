@@ -1,0 +1,15 @@
+/workspaces/C-ThingyMagicy/obj/Debug/net10.0/C-ThingyMagicy.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/C-ThingyMagicy/obj/Debug/net10.0/C-ThingyMagicy.AssemblyInfoInputs.cache
+/workspaces/C-ThingyMagicy/obj/Debug/net10.0/C-ThingyMagicy.AssemblyInfo.cs
+/workspaces/C-ThingyMagicy/obj/Debug/net10.0/C-ThingyMagicy.csproj.CoreCompileInputs.cache
+/workspaces/C-ThingyMagicy/obj/Debug/net10.0/C-ThingyMagicy.sourcelink.json
+/workspaces/C-ThingyMagicy/bin/Debug/net10.0/C-ThingyMagicy
+/workspaces/C-ThingyMagicy/bin/Debug/net10.0/C-ThingyMagicy.deps.json
+/workspaces/C-ThingyMagicy/bin/Debug/net10.0/C-ThingyMagicy.runtimeconfig.json
+/workspaces/C-ThingyMagicy/bin/Debug/net10.0/C-ThingyMagicy.dll
+/workspaces/C-ThingyMagicy/bin/Debug/net10.0/C-ThingyMagicy.pdb
+/workspaces/C-ThingyMagicy/obj/Debug/net10.0/C-ThingyMagicy.dll
+/workspaces/C-ThingyMagicy/obj/Debug/net10.0/refint/C-ThingyMagicy.dll
+/workspaces/C-ThingyMagicy/obj/Debug/net10.0/C-ThingyMagicy.pdb
+/workspaces/C-ThingyMagicy/obj/Debug/net10.0/C-ThingyMagicy.genruntimeconfig.cache
+/workspaces/C-ThingyMagicy/obj/Debug/net10.0/ref/C-ThingyMagicy.dll
